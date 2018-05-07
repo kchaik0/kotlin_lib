@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# Package Files #
+*.jar
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# IntelliJ
+*.iml
+.idea/
+
