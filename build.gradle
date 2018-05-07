@@ -16,6 +16,7 @@ buildscript {
 }
 
 allprojects {
+    version = "${version}"
     repositories {
         google()
         jcenter()
